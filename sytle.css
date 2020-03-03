@@ -4,16 +4,16 @@ background-image:url("download.jpeg");
 }
 
 h1 {
-  color: white;
+  color: green;
   text-align: center;
 }
 
 p {
   font-family: verdana;
-  font-size: 40px;
-color: white;
+  font-size: 50px;
+color: green;
 }
 
 ul{
-color:red
+color:orange
 }
